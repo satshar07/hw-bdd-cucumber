@@ -1,0 +1,24 @@
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+/home/codespace/.rbenv/versions/3.3.8/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-esxixm sitelibdir\=./.gem.20250815-32976-esxixm clean
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-esxixm sitelibdir\=./.gem.20250815-32976-esxixm
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-esxixm sitelibdir\=./.gem.20250815-32976-esxixm install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20250815-32976-esxixm
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-esxixm sitelibdir\=./.gem.20250815-32976-esxixm clean

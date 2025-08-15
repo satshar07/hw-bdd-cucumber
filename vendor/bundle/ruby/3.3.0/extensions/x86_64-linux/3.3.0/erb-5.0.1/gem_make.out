@@ -1,0 +1,18 @@
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/erb-5.0.1/ext/erb/escape
+/home/codespace/.rbenv/versions/3.3.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-dtz8ae sitelibdir\=./.gem.20250815-32976-dtz8ae clean
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-dtz8ae sitelibdir\=./.gem.20250815-32976-dtz8ae
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-dtz8ae sitelibdir\=./.gem.20250815-32976-dtz8ae install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250815-32976-dtz8ae/erb
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-dtz8ae sitelibdir\=./.gem.20250815-32976-dtz8ae clean

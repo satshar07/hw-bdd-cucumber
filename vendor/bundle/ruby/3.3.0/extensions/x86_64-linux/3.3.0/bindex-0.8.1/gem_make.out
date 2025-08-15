@@ -1,0 +1,18 @@
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/home/codespace/.rbenv/versions/3.3.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-g3jdoj sitelibdir\=./.gem.20250815-32976-g3jdoj clean
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-g3jdoj sitelibdir\=./.gem.20250815-32976-g3jdoj
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-g3jdoj sitelibdir\=./.gem.20250815-32976-g3jdoj install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20250815-32976-g3jdoj/skiptrace/internal
+
+current directory: /workspaces/hw-bdd-cucumber/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250815-32976-g3jdoj sitelibdir\=./.gem.20250815-32976-g3jdoj clean
